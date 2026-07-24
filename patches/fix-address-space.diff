@@ -1,5 +1,5 @@
 --- a/loader/preloader.c	2023-10-14 05:00:12.000000000 +0800
-+++ b/loader/preloader.c.new	2023-10-24 19:04:06.351772428 +0800
++++ b/loader/preloader.c	2023-10-24 19:04:06.351772428 +0800
 @@ -1447,7 +1447,7 @@
          {
              /* don't warn for low 64k */
